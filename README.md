@@ -6,9 +6,9 @@
   <a href="https://github.com/EmanuelQuintino">
   
   <img height="180rem" 
-       src="https://github-readme-stats.vercel.app/api?username=EmanuelQuintino&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=FFF"/>
+       src="https://github-readme-stats.vercel.app/api?username=EmanuelQuintino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180rem" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelQuintino&layout=compact&langs_count=8&theme=github_dark&title_color=FFF"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelQuintino&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
 <br>
