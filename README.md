@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm a Data Analyst and Web Developer ✨</h1>
+<h1 align="center">✨ Hi, I'm a Data Analyst and Web Developer </h1>
 
 <br>
 
