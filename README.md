@@ -9,7 +9,7 @@
          src="https://github-readme-stats.vercel.app/api?username=EmanuelQuintino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
     <div>
-    <img height="200rem" 
+    <img height="192rem" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelQuintino&layout=compact&langs_count=6&theme=dark"/>
     </div>
 </div>
