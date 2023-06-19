@@ -60,6 +60,8 @@
 - ### ✉ E-mail: emanuelquintino@hotmail.com
 - ### ☎️ Phone: (88) 99605-9913
 
+<br>
+
 <div> 
   <a href="https://www.linkedin.com/in/emanuelquintino/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/emanuel_quintino"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
