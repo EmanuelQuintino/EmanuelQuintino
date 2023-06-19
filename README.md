@@ -19,9 +19,7 @@
   
 ## TECHNOLOGIES AND SOFTWARES:
 
-```
 ### Web Development
-  
 <div style="display: inline_block">
   <img align="center" alt="HTML" title="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -32,7 +30,6 @@
 </div>
 
 ### Data Analytics
-  
 <div style="display: inline_block">
   <img align="center" alt="Numpy" title="Numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Pandas" title="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -42,7 +39,6 @@
 </div>
 
 ### Others
-
 <div style="display: inline_block">
   <img align="center" alt="Linux" title="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="C" title="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -52,8 +48,6 @@
   <img align="center" alt="MongoDB" title="MongoDB" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Git" title="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
-
-```
 
 ##
   
