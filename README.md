@@ -29,8 +29,6 @@
   <img align="center" alt="Node.JS" title="Node.JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 
-<br>
-
 ### Data Analytics
 <div style="display: inline_block">
   <img align="center" alt="Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -39,8 +37,6 @@
   <img align="center" alt="Tensorflow" title="Tensorflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" alt="Jupyter" title="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
-
-<br>
 
 ### Others
 <div style="display: inline_block">
