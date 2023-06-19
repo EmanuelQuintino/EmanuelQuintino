@@ -1,5 +1,7 @@
 <h1 align="center">✨ Hi, I'm a Data Analyst and Web Developer </h1>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/EmanuelQuintino">
   <img height="180em" 
@@ -7,6 +9,8 @@
   <img height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelQuintino&layout=compact&langs_count=6&theme=dark"/>
 </div>
+
+<br>
   
 ## EDUCATION:
 - ### 📚 ANALYSIS AND SYSTEMS DEVELOPMENT.
@@ -23,6 +27,8 @@
   <img align="center" alt="Node.JS" title="Node.JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 
+<br>
+
 ### Data Analytics
 <div style="display: inline_block">
   <img align="center" alt="Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -31,6 +37,8 @@
   <img align="center" alt="Tensorflow" title="Tensorflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" alt="Jupyter" title="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
+
+<br>
 
 ### Others
 <div style="display: inline_block">
@@ -42,6 +50,8 @@
   <img align="center" alt="SQLite" title="SQLite" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="MongoDB" title="MongoDB" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
+
+<br>
   
 ## CONTACTS: 
 
