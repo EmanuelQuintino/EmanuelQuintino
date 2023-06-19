@@ -19,7 +19,7 @@
   
 ## TECHNOLOGIES AND SOFTWARES:
 
-<div style="background-color: #f2f2f2; padding: 10px;">
+<div style="background-color: #aaaa; padding: 10px;">
   ### Web Development
   <div style="display: inline_block">
     <img align="center" alt="HTML" title="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
