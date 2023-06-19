@@ -19,6 +19,7 @@
   
 ## TECHNOLOGIES AND SOFTWARES:
 
+```
 ### Web Development
   
 <div style="display: inline_block">
@@ -51,6 +52,8 @@
   <img align="center" alt="MongoDB" title="MongoDB" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Git" title="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
+
+```
 
 ##
   
