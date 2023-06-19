@@ -1,7 +1,5 @@
 <h1 align="center">✨ Hi, I'm a Data Analyst and Web Developer </h1>
 
-<br>
-
 <div align="center">
   <a href="https://github.com/EmanuelQuintino">
   <img height="180em" 
@@ -10,12 +8,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelQuintino&layout=compact&langs_count=6&theme=dark"/>
 </div>
   
-<br>
-  
 ## EDUCATION:
 - ### 📚 ANALYSIS AND SYSTEMS DEVELOPMENT.
-
-##
   
 ## TECHNOLOGIES AND SOFTWARES:
 
@@ -48,8 +42,6 @@
   <img align="center" alt="SQLite" title="SQLite" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="MongoDB" title="MongoDB" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
-
-##
   
 ## CONTACTS: 
 
