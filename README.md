@@ -20,7 +20,8 @@
 ## TECHNOLOGIES AND SOFTWARES:
 
 ### Web Development
-<div style="display: inline_block">
+style=""
+<div style="display: inline_block; background-color: #f2f2f2; padding: '10px'">
   <img align="center" alt="HTML" title="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
