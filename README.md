@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm a Data Analyst and Web Developer </h1>
+<h1 align="center">✨ I'm a Data Analyst and a Web Developer </h1>
 
 <br>
 
@@ -12,12 +12,12 @@
 
 <br>
   
-## EDUCATION:
-- ### 📚 ANALYSIS AND SYSTEMS DEVELOPMENT.
+## EDUCATION
+- ### 📚 ANALYSIS AND SYSTEMS DEVELOPMENT
 
 <br>
   
-## TECHNOLOGIES AND SOFTWARES:
+## TECHNOLOGIES AND SOFTWARES
 
 ### Web Development
 <div style="display: inline_block">
@@ -51,7 +51,7 @@
 
 <br>
   
-## CONTACTS: 
+## CONTACTS
 
 - ### ✉ E-mail: emanuelquintino@hotmail.com
 - ### ☎️ Phone: (88) 99605-9913
