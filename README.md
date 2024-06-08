@@ -1,4 +1,4 @@
-<h1 align="center">✨ I'm a Data Analyst and a Web Developer </h1>
+<h1 align="center">✨ Web Developer and Full Stack Software Engineer </h1>
 
 <br>
 
