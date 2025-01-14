@@ -1,4 +1,4 @@
-<h1 align="center">✨ Web Developer and Full Stack Software Engineer </h1>
+<h1 align="center">✨ Full Stack Software Engineer </h1>
 
 <br>
 
