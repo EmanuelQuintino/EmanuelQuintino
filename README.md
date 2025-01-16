@@ -39,8 +39,8 @@
 
 ### Google
 <div style="display: inline_block">
-  <img align="center" alt="Sheets" title="Sheets" height="50" width="50" src="https://img.icons8.com/?size=100&id=qrAVeBIrsjod&format=png&color=000000" />
-  <img align="center" alt="Forms" title="Forms" height="50" width="50" src="https://img.icons8.com/?size=100&id=E4VmOrv6BZqd&format=png&color=000000" />
+  <img align="center" alt="Sheets" title="Sheets" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504768.png" />
+  <img align="center" alt="Forms" title="Forms" height="40" width="40" src="https://iconape.com/wp-content/files/yq/64660/png/google-forms.png" />
   <img align="center" alt="Looker Studio" title="Looker Studio" height="50" width="50" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" />
   <img align="center" alt="Analytics" title="Analytics" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-google-analytics-2038769-1721667.png?f=webp&w=512" />
 </div>
