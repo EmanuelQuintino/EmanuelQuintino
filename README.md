@@ -37,13 +37,19 @@
   <img align="center" alt="PowerBI" title="PowerBI" height="40" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
 </div>
 
+### Google
+<div style="display: inline_block">
+  <img align="center" alt="Sheets" title="Sheets" height="50" width="50" src="https://img.icons8.com/?size=100&id=qrAVeBIrsjod&format=png&color=000000" />
+  <img align="center" alt="Forms" title="Forms" height="50" width="50" src="https://img.icons8.com/?size=100&id=E4VmOrv6BZqd&format=png&color=000000" />
+  <img align="center" alt="Looker Studio" title="Looker Studio" height="50" width="50" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" />
+  <img align="center" alt="Analytics" title="Analytics" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-google-analytics-2038769-1721667.png?f=webp&w=512" />
+</div>
+
+
 ### Others
 <div style="display: inline_block">
-<!--   <img align="center" alt="C" title="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> -->
   <img align="center" alt="Git" title="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<!--   <img align="center" alt="Docker" title="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> -->
   <img align="center" alt="Docker" title="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <!--   <img align="center" alt="MySQL" title="MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> -->
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="SQLite" title="SQLite" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="MongoDB" title="MongoDB" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
