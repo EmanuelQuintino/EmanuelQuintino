@@ -41,7 +41,6 @@
 <div style="display: inline_block">
   <img align="center" alt="Google Sheets" title="Google Sheets" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504768.png" />
   <img align="center" alt="Google Forms" title="Google Forms" height="40" width="38" src="https://iconape.com/wp-content/files/yq/64660/png/google-forms.png" />
-  <img align="center" alt="Google Apps Script" title="Google Apps Script" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/120px-Google_Apps_Script.svg.png" />
   <img align="center" alt="Looker Studio" title="Looker Studio" height="50" width="50" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" />
   <img align="center" alt="Google Analytics" title="Google Analytics" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-google-analytics-2038769-1721667.png?f=webp&w=512" />
 </div>
