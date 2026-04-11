@@ -32,9 +32,9 @@
   <img align="center" alt="Pandas" title="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="Numpy" title="Numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="TensorFlow" title="Tensorflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img align="center" alt="Looker Studio" title="Looker Studio" height="50" width="50" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" />
   <img align="center" alt="Excel" title="Excel" height="45" width="50" src="https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/blob/master/Office%20365/SVG/Excel.svg" />
   <img align="center" alt="PowerBI" title="PowerBI" height="40" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
-  <img align="center" alt="Looker Studio" title="Looker Studio" height="50" width="50" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" />
 </div>
   
 ### Others
