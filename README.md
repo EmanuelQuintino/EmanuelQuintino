@@ -18,21 +18,22 @@
 
 ### Web Development
 <div style="display: inline_block">
-  <img align="center" alt="HTML" title="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" title="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
-  <img align="center" alt="React" title="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" title="Node.JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="HTML" title="HTML" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" title="JavaScript" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
+  <img align="center" alt="React" title="React" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" title="Node.JS" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 
 ### Analytics, BI & Automation
 <div style="display: inline_block">
-  <img align="center" alt="Python" title="Python" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Python" title="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Looker Studio" title="Looker Studio" height="50" width="50" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" />
   <img align="center" alt="Excel" title="Excel" height="50" width="50" src="https://img.icons8.com/color/512/microsoft-excel-2025.png" />
-  <img align="center" alt="PowerBI" title="PowerBI" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png?_=20210102182532" />
+  <img align="center" alt="PowerBI" title="PowerBI" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png?_=20210102182532" />
   <img align="center" alt="N8N" title="N8N" height="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" />
+  <img align="center" alt="Kestra" title="Kestra" height="50" width="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/kestra.webp" />
 </div>
   
 ### Databases & Infrastructure
