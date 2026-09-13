@@ -29,7 +29,7 @@
 ### AI & Automation
 <div style="display: inline_block">
   <img align="center" alt="Python" title="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="N8N" title="N8N" height="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" />
+  <img align="center" alt="N8N" title="N8N" height="50" width="45" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" />
 </div>
   
 ### Databases & Infrastructure
