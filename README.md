@@ -26,12 +26,9 @@
   <img align="center" alt="Node.js" title="Node.JS" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 
-### AI, Automation & Analytics
+### AI & Automation
 <div style="display: inline_block">
   <img align="center" alt="Python" title="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Looker Studio" title="Looker Studio" height="50" width="50" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" />
-  <img align="center" alt="Excel" title="Excel" height="50" width="50" src="https://img.icons8.com/color/512/microsoft-excel-2025.png" />
-  <img align="center" alt="PowerBI" title="PowerBI" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png?_=20210102182532" />
   <img align="center" alt="N8N" title="N8N" height="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" />
 </div>
   
