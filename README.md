@@ -1,4 +1,4 @@
-<h1>✨ Full Stack IA Software Engineer</h1>
+<h1>✨ Full Stack AI Software Engineer</h1>
 
 <br>
 
