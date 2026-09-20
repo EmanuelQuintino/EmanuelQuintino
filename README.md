@@ -21,12 +21,16 @@
   <img align="center" alt="Node.js" title="Node.JS" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 
+<br>
+
 ### Artificial Intelligence & Automation
 <div style="display: inline_block">
   <img align="center" alt="Python" title="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="N8N" title="N8N" height="50" width="45" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" />
 </div>
-  
+
+<br>
+
 ### Databases & Infrastructure
 <div style="display: inline_block">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
