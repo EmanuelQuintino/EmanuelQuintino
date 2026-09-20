@@ -8,12 +8,7 @@
 </div>
     
 <br>
-  
-## EDUCATION
-- ### 📚 SYSTEMS ANALYSIS AND DEVELOPMENT
-
-<br>
-  
+    
 ## TECHNOLOGIES AND SOFTWARES
 
 ### Web Development & Mobile
@@ -42,6 +37,11 @@
   <img align="center" alt="Docker" title="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Linux" title="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+
+<br>
+
+## EDUCATION
+- ### 📚 SYSTEMS ANALYSIS AND DEVELOPMENT
 
 <br>
   
