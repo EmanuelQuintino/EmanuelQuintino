@@ -1,4 +1,4 @@
-<h1>✨ Full Stack Software Engineer </h1>
+<h1>✨ Full Stack IA Software Engineer</h1>
 
 <br>
 
@@ -16,7 +16,7 @@
   
 ## TECHNOLOGIES AND SOFTWARES
 
-### Web Development
+### Web Development & Mobile
 <div style="display: inline_block">
   <img align="center" alt="HTML" title="HTML" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
